@@ -116,5 +116,43 @@ main{
 }
 .skil4{
     color: #757575;
+}
+.nishatma{
+    color: var(--dark-01, #181818);
+text-align: center;
+font-family: Open Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sondhi{
+    color: #474747;
+font-size: 30px;
+font-weight: 700;
+}
+.sami{
+    display: flex;
+    gap: 50px;
+    .simran{
+        margin-bottom: 20px;
+        margin-top: 0;
+       }
+}
+.simran,.sadia{
+    color: #757575;
+}
+.badhon{
+    color: #474747;
+font-size: 25px;
+font-weight: 700;
+margin-bottom: 10px;
 
+}
+.sami hr{
+margin: 30px;
+}
+.era{
+    text-align: center;
+    margin-top: 50px;
 }
